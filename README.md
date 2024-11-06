@@ -1,7 +1,7 @@
 # Flask and Pandas CSV Upload Project
 
 ## Overview
-This project demonstrates how to use Flask for web app development and Pandas for data handling. Users can upload a CSV file, view the full data, and use Pandas to filter specific columns.
+This project shows you how to use Flask for web app development and Pandas for data handling. You can upload a CSV file, view the full data, and use Pandas to filter specific columns.
 
 ## Getting Started
 
