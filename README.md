@@ -12,8 +12,8 @@ This project shows you how to use Flask for web app development and Pandas for d
 2. **Clone Your Forked Repository**:
    - Copy the URL of your forked repository (it will look like `https://github.com/your-username/repo-name.git`).
    - In your terminal, run the following commands:
-     git clone <your-forked-repo-url>
-     cd <your-repo-name>
+     git clone 'your-forked-repo-url'
+     cd 'your-repo-name'
 
 3. **Install Dependencies**
 **On macOS/Linux:**
