@@ -32,8 +32,8 @@ python app.py
 
 ## Sample CSV File
 
-A sample CSV file (`samples.csv`) is included in the `data` folder. This file contains data can be used to test the app.
+A sample CSV file (`samples.csv`) is included. This file contains data can be used to test the app.
 
 ### To Use the Sample File:
 1. Run the app by following the instructions above.
-2. Go to the web page and upload `data/samples.csv`.
+2. Go to the web page and upload `samples.csv`.
